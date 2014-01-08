@@ -10,6 +10,7 @@ public partial class facebook : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+// מה הולך?
 
 
         //var client = new FacebookClient();
