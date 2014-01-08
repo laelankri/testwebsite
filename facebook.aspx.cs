@@ -10,6 +10,8 @@ public partial class facebook : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+
+
         //var client = new FacebookClient();
         //dynamic me = client.Get("totten");
         //Response.Write(me.first_name + "<br/>");
